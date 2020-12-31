@@ -8,7 +8,9 @@ For Read CSV file from a Folder:
     
     1:OPEN GOOGLE COLAB.
     
-    2:Click Files Icon(last Nav).
+    2: Goto File then click New Notebook
+    
+    3:Click Folder Icon(last Nav).
     
       |:Click to Drive to Mount(To get authorised for Google Colab ).
       
